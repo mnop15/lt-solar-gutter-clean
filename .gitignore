@@ -1,0 +1,15 @@
+# Dependencies
+mail/vendor/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+mail/db.php
+
+# Logs
+*.log
+
+# Operating system
+Thumbs.db
+.DS_Store
