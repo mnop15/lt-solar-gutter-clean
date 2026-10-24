@@ -71,9 +71,9 @@ try {
     header("Location: ../fail.html");
     exit;
 }
-$business_email = "formhandle60637@gmail.com";
-    $smtp_username = "formhandle60637@gmail.com";
-    $smtp_password = "amnzjptyhbenuuxn";
+$business_email = "";
+    $smtp_username = "";
+    $smtp_password = "";
 
 $emailErrors = [];
 
